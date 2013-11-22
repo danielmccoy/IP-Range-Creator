@@ -1,0 +1,10 @@
+{
+    "name": "pabloosso/template-composer-phpunit",
+    "description": "A basic PHP project template using Composer.",
+    "require": {
+        "phpunit/phpunit": "3.7.21"
+    },
+    "autoload": {
+        "psr-0": {"IPTools\\": "src/"}
+    }
+}
